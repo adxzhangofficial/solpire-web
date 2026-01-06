@@ -1,0 +1,8 @@
+export { CompanyIntro } from './CompanyIntro'
+export { PainPoints } from './PainPoints'
+export { Solutions } from './Solutions'
+export { SectionDivider } from './SectionDivider'
+export { SectionTitle } from './SectionTitle'
+export { ServicesSection } from './ServicesSection'
+export { PortfolioCarousel } from './PortfolioCarousel'
+export { TeamSection } from './TeamSection'
